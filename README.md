@@ -1,19 +1,47 @@
-Project Title:
-ChatBot assistant
+# MujahidGPT – JHK Solution Personal Assistant 🤖
 
-Project Brief :
+MujahidGPT is a custom AI-powered personal assistant developed for JHK Solution, designed to provide intelligent responses, business-related assistance, and automated support using modern AI tools.  
+The project combines Python-based AI logic, Gradio UI, Hugging Face Spaces, Google Sites frontend embedding, and GitHub version control into one complete system.
 
-This project focuses on the development of "MujahidGPT," an advanced AI chatbot assistant. The primary goal is to create an intelligent, real-to-time conversational agent designed to help users manage their daily general tasks. The chatbot will be built using Python and deployed on Hugging Face Spaces. A key feature will be its integration into a web-based platform, allowing users to access and interact with the assistant seamlessly from a website.
-Technologies Used:
 
-Frontend: HTML, CSS, JavaScript
 
-Backend: Python
+# Live Demo
 
-AI Models: Hugging Face Transformers
+# Official Domain:
+https://thenajafigroup.online  
 
-Hosting: GitHub Pages, Hugging Face Spaces, Google Colab, Google sites
+Hugging Face Space:
 
-Version Control: Git & GitHub, Google sites.
->> See complete project below:
->> https://www.thenajafigroup.online/
+Deployed using Hugging Face Spaces with Gradio interface
+
+# Project Overview
+
+MujahidGPT serves as a centralized AI assistant that contains all information and operational knowledge of JHK Solution.  
+It is built to assist users with:
+
+ Company-related queries  
+ Automated AI conversations  
+ Smart responses using Python-based AI logic  
+ Easy accessibility via web browser  
+
+The frontend is embedded into Google Sites using an iframe/embed code system, allowing drag-and-drop website management without complex frontend coding.
+
+
+ # Technologies Used
+
+# Backend & AI
+  Python
+  Gradio
+  Hugging Face Spaces
+
+# Frontend
+  Google Sites
+  Embed Code System (iframe)
+  Drag & Drop UI
+
+  Deployment & Version Control
+  GitHub (source code & version control)
+  Hugging Face Spaces (hosting & inference)
+  Custom Domain (thenajafigroup.online)
+
+
